@@ -47,7 +47,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 3. Edit your configuration ?
    ```sh
-   /etc/apache2/sites-enabled/000-default.conf
+   /etc/apache2/sites-available/000-default.conf
    ```
 
 <!-- USAGE EXAMPLES -->
